@@ -7,3 +7,5 @@ Some months later I found out why I was wrong. Now I can see clearly, especially
 
 So this repository is made to test the speed of Cython compared to standard Python.  Initially, this only applies the test on the Newton–Raphson method, but I intend to expand the testing to discover the weaknesses and strengths of Cython.
 
+THE RESULTS:
+The results of the test will be displayed on the .ipynb file (jupyter format).
